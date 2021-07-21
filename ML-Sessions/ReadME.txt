@@ -1,0 +1,1 @@
+The notebooks here are from the study sessions before we started on deep learning. These files don't have study session recordings associated with them and all relevent notes are contained in the notebooks themselves.
